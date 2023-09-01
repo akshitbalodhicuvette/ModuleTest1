@@ -324,8 +324,8 @@ body {
   border: 10px solid white;
   border-radius: 10px;
   position: absolute;
-  right: 80px;
-  bottom: 120px;
+  right: 30px;
+  bottom: 95px;
   z-index: 2;
   padding: 10px;
 }
@@ -340,11 +340,10 @@ body {
 }
 
 ul {
+  margin-top: 20px;
   list-style-type: square;
-  margin-left: 15px;
-  font-size: 13px;
-  /* padding: 20px; */
-  /* color: yellow; */
+  margin-left: 20px;
+  font-size: 15px;
 }
 
 ul ::marker {
@@ -517,7 +516,7 @@ button {
   justify-content: center;
   align-items: center;
   position: relative;
-  top: 100px;
+  top: 10vh;
 }
 
 .second,
