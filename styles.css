@@ -438,10 +438,9 @@ button {
 }
 
 #you-picked {
-  /* left: 510px; */
-  position: fixed;
+  position: absolute;
   margin-left: 10px;
-  bottom: 430px;
+  bottom: 240px;
   text-transform: uppercase;
   font-weight: 700;
   color: white;
@@ -449,10 +448,9 @@ button {
 }
 
 #pc-picked {
-  /* left: 930px; */
   letter-spacing: 2px;
-  position: fixed;
-  bottom: 430px;
+  position: absolute;
+  bottom: 240px;
   color: white;
   margin-left: 10px;
   text-transform: uppercase;
