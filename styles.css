@@ -361,8 +361,8 @@ button {
 /* gradient at winner's border effect  */
 
 .rounded-gradient-borders {
-  box-shadow: 0px 0px 1px 40px #2c942c, 0px 0px 1px 60px #2e9a2563,
-    0px 0px 1px 80px #7eb95c;
+  box-shadow: 0px 0px 1px 40px #2c942c, 0px 0px 1px 65px #2e9a2563,
+    0px 0px 1px 85px #7eb95c;
   z-index: -1000;
 }
 
