@@ -441,7 +441,7 @@ button {
   /* left: 510px; */
   position: fixed;
   margin-left: 10px;
-  bottom: 400px;
+  bottom: 430px;
   text-transform: uppercase;
   font-weight: 700;
   color: white;
@@ -452,7 +452,7 @@ button {
   /* left: 930px; */
   letter-spacing: 2px;
   position: fixed;
-  bottom: 400px;
+  bottom: 430px;
   color: white;
   margin-left: 10px;
   text-transform: uppercase;
@@ -534,7 +534,7 @@ button {
 
 .play-again {
   position: relative;
-  bottom: 150px;
+/*   bottom: 150px; */
   text-decoration: none;
   /* font-weight: bold; */
   color: #6b6b6b;
@@ -547,8 +547,8 @@ button {
   justify-content: center;
   align-items: center;
   background-color: white;
-  position: relative;
-  left: 660px;
+/*   position: relative; */
+  left: 43.5%;
   bottom: 70px;
 }
 
